@@ -2,8 +2,8 @@
 LF2DD is a simple command line utility, extracting raw text data out of needlessly encoded Little Fighter 2 data files.
 
 ## Usage
- * LF2DD.exe encrypt <file to encrypt> <output file>
- * LF2DD.exe decrypt <file to decrypt> <output file>
+ * LF2DD.exe encrypt [file to encrypt] [output file]
+ * LF2DD.exe decrypt [file to decrypt] [output file]
 
 ## Format of the LF2 encryption
 So for whatever reason LF2 data files are 'encrypted'. Fine.
